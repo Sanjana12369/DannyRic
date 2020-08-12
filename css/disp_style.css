@@ -1,0 +1,40 @@
+h1{
+	background: #00ff00;
+	text-align: center;
+	font-variant: small-caps;
+}
+header{
+	
+	padding: 3px;
+	text-align: center;
+}
+h2{
+	background: #0000ff;
+}
+.half{
+	width: 25%;
+	display: inline-block;
+	float:left;
+	margin: 3px;
+}
+img{
+
+  width:100px;
+  height: 50px;
+}
+footer{
+	
+	clear:both;
+}
+header,footer {
+	background: #666666;
+	background: -webkit-linear-gradient(#666666 10%, #555555 20%);
+	background: -moz-linear-gradient(#666666 10%, #555555 20%);
+	background: -o-linear-gradient(#666666 10%, #555555 20%);
+	background: linear-gradient(#666666 10%, #555555 20%);
+}
+nav a{
+	width: 25px;
+	display: inline-block;
+	background: #FFFFFF;
+}

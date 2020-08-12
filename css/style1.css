@@ -1,0 +1,43 @@
+h1{
+	text-align: center;
+}
+header{
+	background: #FF9633;
+	font-family: Verdana;
+}
+header>img{
+	width:200px;
+	height:200px; 
+	padding: 5px 41% 5px;
+}
+p{
+	font-size: 18px;
+}
+span{
+	font-size: 18px;
+}
+main>img{
+	width:220px;
+	height:180px;
+	background: #212F3D;
+	border-width: 2px;
+	padding: 10px 20px 10px;
+	margin:2px 150px 2px;
+}
+table{
+	text-align: center;
+	
+	font-size: 25px;
+	padding:2px 2px 2px;
+	margin: 2px 40% 2px;
+	border-radius: 5px;
+}
+tr td:first-of-type{
+	font-weight: bold;
+
+}
+tr{
+	background: #52BE80 ;
+	padding:2px;
+	margin:2px;
+}
